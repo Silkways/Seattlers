@@ -17,11 +17,6 @@ u How do the models compare if we proceed with the removal of outlier values in 
 
 
 
-The presentation document attached to this repository would provide an understanding of the process followed for this analysis.
-
-http://localhost:8889/files/Presentation1.pdf
-
-
 
 # Conclusion Summary
 
