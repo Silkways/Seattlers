@@ -7,13 +7,13 @@ This will be our first analysis as a Data Scientist at the new department, the p
 
 The objective of the analysis conducted is to gain an alternative understanding of the Seattle property
 market for the development of our real estate financing business. This is an experimental in-house analysis.
-u The problematics addressed in the analysis will aim to complement the traditional micro level evaluation for
+ The problematics addressed in the analysis will aim to complement the traditional micro level evaluation for
 real estate financing.
 
-u We are aiming to answer the following questions using regression analysis:
-u Will price increase provided we keep the living surface constant and increase the grading by 1?
-u Will price increase provided we increase living surface and keep the grading constant?
-u How do the models compare if we proceed with the removal of outlier values in our variables?
+We are aiming to answer the following questions using regression analysis:
+Will price increase provided we keep the living surface constant and increase the grading by 1?
+Will price increase provided we increase living surface and keep the grading constant?
+How do the models compare if we proceed with the removal of outlier values in our variables?
 
 
 
