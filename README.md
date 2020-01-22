@@ -18,7 +18,7 @@ u How do the models compare if we proceed with the removal of outlier values in 
 
 
 
-# Conclusion Summary
+# Conclusion
 
 It is necessary to spend more time exploring the data and on the data clearing process as the correlations visualitations of the parameters would have improved. The parameters we have chosen to base our analysis : sqft_living and grade are not sufficient to provide a good prediction, other parameters need to be included. 
 We realize location is a mayor factor in predicting the price but we have chosen not to pursue this analysis given the little experience and short time given to produce results. 
